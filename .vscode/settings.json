@@ -1,4 +1,5 @@
 {
     "appService.defaultWebAppToDeploy": "/subscriptions/d0a170a3-59bc-4593-ad5d-7dc3b988c37b/resourceGroups/Smart_Search_POC-RG/providers/Microsoft.Web/sites/il-djangoPOC",
-    "appService.deploySubpath": "."
+    "appService.deploySubpath": ".",
+    "appService.showBuildDuringDeployPrompt": false
 }
